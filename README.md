@@ -98,6 +98,4 @@ Ideas to take it further:
 
 ---
 
-## 📄 License
 
-MIT — free to use, modify, and distribute.
